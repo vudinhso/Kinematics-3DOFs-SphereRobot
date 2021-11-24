@@ -6,3 +6,4 @@ AgileEye Kinematics - Forward and Inverse Kinematics.
 - RotMatrix: input: axis, angle. output: 3x3 rotation matrix. 
 - RotLog: input: rotation matrix. output axis angle. 
 - RotZXY.m: input [phi1, phi2, phi3]. output 3x3 rotation matrix.  
+- RotGA.m: input bivector. output rotation matrix
